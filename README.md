@@ -3,7 +3,8 @@
 Please check Tableau Public to see the full Project: https://public.tableau.com/profile/federico.cestau1350#!/vizhome/Citibike-Project2018_15927943426440/Story1.
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
-However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so the task on the job is to build a set of data reports to provide the answers.
+However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so the task on the job is to build a set of data reports to provide the answers:
+
 How many trips have been recorded total during the chosen period?
 
 By what percentage has total ridership grown?
